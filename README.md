@@ -1,2 +1,3 @@
-# js_e-commerce
+# E-COMMERCE
+
 App that lets electronically buying or selling products on online services or over the Internet.
