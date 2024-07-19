@@ -1,3 +1,3 @@
 # E-COMMERCE
 
-App that lets electronically buying or selling products on online services or over the Internet.
+App que permet comprar o vendre productes on line fent ús d'Internet.
